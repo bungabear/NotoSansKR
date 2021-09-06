@@ -1,3 +1,11 @@
+# NotoSansKR
+
+폰트 출처 : https://fonts.google.com/specimen/Noto+Sans+KR#standard-styles
+
+Flutter Dynamic Font용  
+
+
+```dart
 import 'dart:ui';
 
 import 'package:dynamic_fonts/dynamic_fonts.dart';
@@ -152,3 +160,4 @@ extension NanumSquareFontTypeEx on NotoSansKRFontType{
     }
   }
 }
+```
